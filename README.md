@@ -18,8 +18,8 @@ As you can see, a one corresponds to upper case and a zero corresponds to lower 
 | ------ | ----------------------- |
 | 0 | SPACE | 
 | 1 - 26 | lower case alphabet |
-| 27 | capitalize all following characters |
-| 28 | stop capitalizing |
+| 27 | capitalize all following characters ':' |
+| 28 | stop capitalizing ';' |
 | 29 | PERIOD |
 | 30 | QUESTION MARK |
 | 31 | EXCLAMATION MARK |
