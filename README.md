@@ -2,7 +2,8 @@
 
 ## ENCODING METHOD
 This program encodes messages by placing single bits in the capitalization of the word "benis". This is best shown by example:
-``` bEnIS
+```
+bEnIS
 01011 = 11
 ```
 
