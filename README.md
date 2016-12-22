@@ -1,7 +1,10 @@
-# BENIS ENCODING
+# BenisCode
+BenisCode is simple inneficient bloating encoder based on the word "benis".
+*Please* don't take this seriously.
 
-## ENCODING METHOD
-This program encodes messages by placing single bits in the capitalization of the word "benis". This is best shown by example:
+## Encoding Method
+This program encodes messages by placing single bits in the capitalization of the word "benis".
+This is best shown by example:
 ```
 bEnIS
 01011 = 11
@@ -11,9 +14,10 @@ The biggest number that can be stored with this encoding is
 BENIS
 11111 = 31
 ```
-As you can see, a one corresponds to upper case and a zero corresponds to lower case. This method isn't efficient at all, but it isn't meant to. Zheliazkov <3
+As you can see, a one corresponds to upper case and a zero corresponds to lower case.
+This method isn't efficient at all, but it isn't meant to. **Zheliazkov** <3
 
-## ENCODING TABLE
+## Table of characters
 | Number | Corresponding Character |
 | ------ | ----------------------- |
 | 0 | SPACE | 
@@ -23,3 +27,9 @@ As you can see, a one corresponds to upper case and a zero corresponds to lower 
 | 29 | PERIOD |
 | 30 | QUESTION MARK |
 | 31 | EXCLAMATION MARK |
+ 
+# Building and using
+To build BenisCode, just run the `make` command in the project root.
+Then run `sudo make install` to install it.
+To use it just run `beniscode` in a terminal.
+To delete `beniscode`, run `sudo make delete`.
