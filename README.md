@@ -15,7 +15,7 @@ BENIS
 11111 = 31
 ```
 As you can see, a one corresponds to upper case and a zero corresponds to lower case.
-This method isn't efficient at all, but it isn't meant to. **Zheliazkov** <3
+This method isn't efficient at all, but it isn't meant to. **Zheliazkov** :heart:
 
 ## Table of characters
 | Number | Corresponding Character |
