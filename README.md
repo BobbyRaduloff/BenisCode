@@ -1,5 +1,5 @@
 # BenisCode
-BenisCode is simple inneficient bloating encoder based on the word "benis".
+BenisCode is simple inefficient bloating encoder based on the word "benis".
 *Please* don't take this seriously.
 
 ## Encoding Method
